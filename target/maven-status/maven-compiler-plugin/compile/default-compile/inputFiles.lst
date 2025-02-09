@@ -1,0 +1,10 @@
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/controller/CoindeskController.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/service/CoindeskService.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/repository/CurrencyRepo.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/service/CurrencyServcie.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/CathaybktestApplication.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/model/dao/Currency.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/ServletInitializer.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/controller/CurrencyController.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/config/RestTemplateConfig.java
+/Users/lishengfan/STSWorkspace/cathaybktest/src/main/java/idv/ericlee/cathaybktest/model/vo/CurrencyVo.java

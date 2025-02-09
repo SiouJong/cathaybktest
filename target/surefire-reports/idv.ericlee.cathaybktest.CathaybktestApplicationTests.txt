@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: idv.ericlee.cathaybktest.CathaybktestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.175 s - in idv.ericlee.cathaybktest.CathaybktestApplicationTests
